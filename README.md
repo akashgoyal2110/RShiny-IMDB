@@ -1,2 +1,4 @@
 # RShiny-IMDB
 Exploring IMDB movie data using R Shiny
+
+**To start the process just the file FIT5147_DataVisualizationProject.R** or visit the link 
