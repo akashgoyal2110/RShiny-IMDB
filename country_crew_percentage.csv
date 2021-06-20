@@ -1,0 +1,171 @@
+country,male_count,female_count,male_pct,female_pct
+Afghanistan,16,8,66.67,33.33
+Albania,48,23,67.61,32.39
+Algeria,69,38,64.49,35.51
+Andorra,5,5,50,50
+Angola,6,2,75,25
+Argentina,1000,634,61.2,38.8
+Armenia,34,15,69.39,30.61
+Aruba,12,4,75,25
+Australia,1335,796,62.65,37.35
+Austria,457,327,58.29,41.71
+Azerbaijan,40,13,75.47,24.53
+Bahamas,23,9,71.88,28.12
+Bahrain,3,1,75,25
+Bangladesh,153,87,63.75,36.25
+Belarus,14,6,70,30
+Belgium,1387,947,59.43,40.57
+Bermuda,2,2,50,50
+Bhutan,11,1,91.67,8.33
+Bolivia,22,10,68.75,31.25
+Bosnia and Herzegovina,78,43,64.46,35.54
+Botswana,3,1,75,25
+Brazil,1003,691,59.21,40.79
+British Virgin Islands,3,1,75,25
+Brunei,8,7,53.33,46.67
+Bulgaria,302,150,66.81,33.19
+Burkina Faso,13,12,52,48
+Cambodia,23,17,57.5,42.5
+Cameroon,3,1,75,25
+Canada,4110,2578,61.45,38.55
+Cape Verde,2,2,50,50
+Cayman Islands,5,7,41.67,58.33
+Chad,3,1,75,25
+Chile,287,198,59.18,40.82
+China,1371,747,64.73,35.27
+Colombia,239,126,65.48,34.52
+Costa Rica,23,14,62.16,37.84
+Croatia,247,124,66.58,33.42
+Cuba,85,53,61.59,38.41
+Cyprus,33,25,56.9,43.1
+Czech Republic,468,280,62.57,37.43
+Czechoslovakia,393,183,68.23,31.77
+Denmark,1165,689,62.84,37.16
+Djibouti,5,2,71.43,28.57
+Dominican Republic,66,31,68.04,31.96
+East Germany,102,51,66.67,33.33
+Ecuador,25,9,73.53,26.47
+Egypt,657,341,65.83,34.17
+Estonia,133,71,65.2,34.8
+Ethiopia,15,11,57.69,42.31
+Federal Republic of Yugoslavia,88,43,67.18,32.82
+Fiji,1,3,25,75
+Finland,770,468,62.2,37.8
+France,9085,6124,59.73,40.27
+Georgia,83,36,69.75,30.25
+Germany,4213,2714,60.82,39.18
+Ghana,11,1,91.67,8.33
+Gibraltar,3,1,75,25
+Greece,950,599,61.33,38.67
+Greenland,6,2,75,25
+Guatemala,16,4,80,20
+Haiti,7,5,58.33,41.67
+Honduras,7,1,87.5,12.5
+Hong Kong,2606,1337,66.09,33.91
+Hungary,741,443,62.58,37.42
+Iceland,188,112,62.67,37.33
+India,7783,4224,64.82,35.18
+Indonesia,269,199,57.48,42.52
+Iran,842,493,63.07,36.93
+Iraq,35,17,67.31,32.69
+Ireland,518,292,63.95,36.05
+Isle Of Man,9,11,45,55
+Israel,393,221,64.01,35.99
+Italy,5660,3322,63.01,36.99
+Jamaica,6,2,75,25
+Japan,4166,3134,57.07,42.93
+Jordan,13,7,65,35
+Kazakhstan,58,14,80.56,19.44
+Kenya,12,8,60,40
+Kosovo,11,9,55,45
+Kuwait,6,6,50,50
+Kyrgyzstan,7,10,41.18,58.82
+Laos,2,6,25,75
+Latvia,77,41,65.25,34.75
+Lebanon,64,53,54.7,45.3
+Lesotho,3,1,75,25
+Liberia,6,2,75,25
+Libya,6,2,75,25
+Liechtenstein,18,6,75,25
+Lithuania,165,84,66.27,33.73
+Luxembourg,248,175,58.63,41.37
+Macao,7,5,58.33,41.67
+Malawi,4,0,100,0
+Malaysia,132,70,65.35,34.65
+Maldives,5,2,71.43,28.57
+Mali,11,4,73.33,26.67
+Malta,31,16,65.96,34.04
+Mauritania,2,2,50,50
+Mexico,1245,744,62.59,37.41
+Moldova,17,5,77.27,22.73
+Monaco,37,17,68.52,31.48
+Mongolia,12,11,52.17,47.83
+Montenegro,24,5,82.76,17.24
+Morocco,92,42,68.66,31.34
+Myanmar,8,8,50,50
+Namibia,7,1,87.5,12.5
+Nepal,40,18,68.97,31.03
+Netherlands,1122,716,61.04,38.96
+Netherlands Antilles,5,1,83.33,16.67
+New Zealand,258,155,62.47,37.53
+Nicaragua,6,2,75,25
+Niger,7,3,70,30
+Nigeria,29,15,65.91,34.09
+North Korea,20,5,80,20
+Norway,813,442,64.78,35.22
+Oman,2,2,50,50
+Pakistan,112,59,65.5,34.5
+Palestine,36,15,70.59,29.41
+Panama,33,15,68.75,31.25
+Papua New Guinea,2,2,50,50
+Paraguay,11,4,73.33,26.67
+Peru,88,52,62.86,37.14
+Philippines,386,279,58.05,41.95
+Poland,1044,605,63.31,36.69
+Portugal,454,296,60.53,39.47
+Puerto Rico,50,19,72.46,27.54
+Qatar,81,43,65.32,34.68
+Republic of Macedonia,80,42,65.57,34.43
+Romania,581,303,65.72,34.28
+Russia,1264,660,65.7,34.3
+Rwanda,4,0,100,0
+Samoa,3,5,37.5,62.5
+Saudi Arabia,19,7,73.08,26.92
+Senegal,41,24,63.08,36.92
+Serbia,235,128,64.74,35.26
+Serbia and Montenegro,12,4,75,25
+Singapore,156,92,62.9,37.1
+Slovakia,94,71,56.97,43.03
+Slovenia,132,78,62.86,37.14
+Somalia,3,1,75,25
+South Africa,340,160,68,32
+South Korea,1680,1001,62.66,37.34
+Soviet Union,1088,532,67.16,32.84
+Spain,3081,2003,60.6,39.4
+Sri Lanka,48,25,65.75,34.25
+Sudan,3,1,75,25
+Svalbard And Jan Mayen,3,1,75,25
+Sweden,1363,944,59.08,40.92
+Switzerland,635,514,55.27,44.73
+Syria,18,6,75,25
+Taiwan,548,309,63.94,36.06
+Tajikistan,6,6,50,50
+Tanzania,3,1,75,25
+Thailand,432,266,61.89,38.11
+Trinidad and Tobago,6,2,75,25
+Tunisia,57,35,61.96,38.04
+Turkey,1994,1003,66.53,33.47
+UK,8817,4896,64.3,35.7
+USA,39848,23572,62.83,37.17
+Uganda,7,1,87.5,12.5
+Ukraine,146,71,67.28,32.72
+United Arab Emirates,126,82,60.58,39.42
+Uruguay,73,36,66.97,33.03
+Vanuatu,2,2,50,50
+Venezuela,68,43,61.26,38.74
+Vietnam,63,54,53.85,46.15
+West Germany,1205,748,61.7,38.3
+Yemen,7,5,58.33,41.67
+Yugoslavia,523,207,71.64,28.36
+Zambia,3,1,75,25
+Zimbabwe,2,2,50,50

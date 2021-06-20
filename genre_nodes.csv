@@ -1,0 +1,27 @@
+genre,node_radius,genre_group,rowNum
+Action,23.69054363,Popular Genre,0
+Adult,10.00113304,Unpopular Genre,1
+Adventure,17.95961839,Thriving Genre,2
+Animation,12.28874436,Less popular Genre,3
+Biography,12.5663396,Less popular Genre,4
+Comedy,41.46910195,Very Popular Genre,5
+Crime,21.80969431,Popular Genre,6
+Documentary,10.00113304,Unpopular Genre,7
+Drama,60,Very Popular Genre,8
+Family,14.16959369,Less popular Genre,9
+Fantasy,14.03816085,Less popular Genre,10
+Film-Noir,10.75460581,Unpopular Genre,11
+Game-Show,10,Unpopular Genre,12
+History,12.43603979,Less popular Genre,13
+Horror,20.21210542,Thriving Genre,14
+Music,11.77321036,Less popular Genre,15
+Musical,12.25475311,Less popular Genre,16
+Mystery,15.45786218,Less popular Genre,17
+News,10,Unpopular Genre,18
+Reality-TV,10.00113304,Unpopular Genre,19
+Romance,25.03886333,Popular Genre,20
+Sci-Fi,13.92485667,Less popular Genre,21
+Sport,11.13530785,Less popular Genre,22
+Thriller,22.24025018,Popular Genre,23
+War,12.441705,Less popular Genre,24
+Western,11.75394865,Less popular Genre,25
